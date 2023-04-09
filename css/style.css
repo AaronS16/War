@@ -24,7 +24,7 @@ img{
 }
 
 body{
-  background-image: url('/javascript/aaron/class28-materials/card-game/img/3043464.jpg');
+  background-image: url('../img/3043464.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
